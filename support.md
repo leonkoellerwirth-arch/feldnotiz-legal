@@ -1,5 +1,5 @@
 ---
-title: Support — Feldnotiz
+title: Support — Critique Incognito
 ---
 
 # Support — Critique Incognito

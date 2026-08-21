@@ -1,5 +1,5 @@
 ---
-title: Datenschutzerklärung — Feldnotiz
+title: Datenschutzerklärung — Critique Incognito
 ---
 
 # Datenschutzerklärung — Critique Incognito
