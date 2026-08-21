@@ -2,7 +2,7 @@
 title: Datenschutzerklärung — Feldnotiz
 ---
 
-# Datenschutzerklärung — Feldnotiz
+# Datenschutzerklärung — Critique Incognito
 
 Stand: 2026-08-19 · gilt ab Version 1.0.0
 
@@ -13,7 +13,7 @@ Stand: 2026-08-19 · gilt ab Version 1.0.0
 
 ## Kurzfassung
 
-Feldnotiz erhebt keine personenbezogenen Daten. Es gibt kein Konto des Anbieters, keinen Server des
+Le Critique erhebt keine personenbezogenen Daten. Es gibt kein Konto des Anbieters, keinen Server des
 Anbieters, keine Analyse-Werkzeuge und keine Werbung. Alles, was du erfasst, bleibt auf deinem
 Gerät.
 

@@ -2,7 +2,7 @@
 title: Support — Feldnotiz
 ---
 
-# Support — Feldnotiz
+# Support — Critique Incognito
 
 > Diese Seite liegt unter einer öffentlich erreichbaren URL und steht in App Store Connect als
 > *Support URL*. Eine URL ohne erreichbare Seite ist ein Ablehnungsgrund, kein Formfehler.
@@ -16,7 +16,7 @@ was du getan hast, bevor es schiefging.
 
 ## Was die App tut
 
-Feldnotiz ist ein Werkzeug, um vor Ort festzuhalten, was du in einem Café, Restaurant oder Hotel
+Le Critique ist ein Werkzeug, um vor Ort festzuhalten, was du in einem Café, Restaurant oder Hotel
 tatsächlich beobachtet hast, und um daraus anschließend deinen eigenen Text zu schreiben. Sie
 erzeugt keine Rezensionen für dich und veröffentlicht nichts: Kopieren und Posten machst du selbst.
 
@@ -25,7 +25,7 @@ erzeugt keine Rezensionen für dich und veröffentlicht nichts: Kopieren und Pos
 **Die App schlägt mir keinen Betrieb in der Nähe vor.**
 Der Vorschlag braucht die Ortungsfreigabe und einen Standort. In Innenräumen dauert eine Ortung
 manchmal zu lange — nach zehn Sekunden bricht die App ab und du trägst den Namen selbst ein. Die
-Freigabe steuerst du in *Einstellungen → Datenschutz & Sicherheit → Ortungsdienste → Feldnotiz*.
+Freigabe steuerst du in *Einstellungen → Datenschutz & Sicherheit → Ortungsdienste → Le Critique*.
 
 **Ich kann meinen Text nicht kopieren.**
 Das ist beabsichtigt. Der Kopierknopf bleibt gesperrt, solange der Entwurf unverändert ist. Der
