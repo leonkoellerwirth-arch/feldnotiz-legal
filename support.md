@@ -4,9 +4,6 @@ title: Support — Critique Incognito
 
 # Support — Critique Incognito
 
-> Diese Seite liegt unter einer öffentlich erreichbaren URL und steht in App Store Connect als
-> *Support URL*. Eine URL ohne erreichbare Seite ist ein Ablehnungsgrund, kein Formfehler.
-
 ## Kontakt
 
 mhlihel@gmail.com — Fehler, Fragen, Wünsche. Antwort in der Regel innerhalb weniger Werktage.

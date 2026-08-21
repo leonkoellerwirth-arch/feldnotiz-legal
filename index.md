@@ -6,11 +6,6 @@ title: Datenschutzerklärung — Critique Incognito
 
 Stand: 2026-08-19 · gilt ab Version 1.0.0
 
-> Diese Datei liegt unter einer öffentlich erreichbaren URL; dieselbe URL steht in App Store
-> Connect als *Privacy Policy URL*. Der Wortlaut hier und der Text in
-> `Feldnotiz/Settings/PrivacyView.swift` sagen dasselbe aus und müssen dasselbe sagen — wer eines
-> ändert, ändert beides.
-
 ## Kurzfassung
 
 Le Critique erhebt keine personenbezogenen Daten. Es gibt kein Konto des Anbieters, keinen Server des
